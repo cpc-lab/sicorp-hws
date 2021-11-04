@@ -1,0 +1,8 @@
+ins_max, 0x4c91c817
+cycle_max, 0x4c0fbc51
+memory_max, 0x4c2290ef
+branchm_max, 0x483992a9
+ins_min, 0x44d5f2ab
+cycle_min, 0x46a729de
+memory_min, 0x43062222
+branchm_min, 0x0
